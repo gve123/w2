@@ -188,7 +188,7 @@ document.getElementById('txt15').innerHTML ="💥✅Tutorial Reparación Foco Ah
 											"https://youtu.be/IaLPqXzSt-I";
   
 document.getElementById("img16").src= "imgv/16.png";
-document.getElementById('txt16').innerHTML = "💥✅Tutorial Electrónica Básica #1 resistencias capacitores inductores y diodos‼️💥😮<br />"+
+document.getElementById('txt16').innerHTML = "💥✅Tutorial Electrónica Básica #1 resistencias capacitores inductores y diodos Di Gracias y aqui les dejo video‼️💥😮<br />"+
 											"👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇<br />"+
 											"https://youtu.be/vJnGSqnFgvw";
   
@@ -208,27 +208,27 @@ document.getElementById('txt19').innerHTML = "👍💥Reparación Lampara LED ca
 												"https://youtu.be/LYQeU9iXKcw";
   
 document.getElementById("img20").src= "imgv/20.png";
-document.getElementById('txt20').innerHTML = "✅💥Truco para reparar foco ahorrador con filamento dañado!💡🔌<br />"+
+document.getElementById('txt20').innerHTML = "✅💥Truco para reparar foco ahorrador con filamento dañado Di Gracias y aqui les dejo video!💡🔌<br />"+
 											"⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️<br />"+
 											"https://youtu.be/J91Liyz9bts"; 
   
 document.getElementById("img21").src= "imgv/21.png";
-document.getElementById('txt21').innerHTML =  "✅Reparación protector de voltaje se queda en led rojo‼️💥😁💡💯<br />"+ 
+document.getElementById('txt21').innerHTML =  "✅Reparación protector de voltaje se queda en led rojo Di Gracias y aqui les dejo video‼️💥😁💡💯<br />"+ 
 											"👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇<br />"+
 											"https://youtu.be/lV6gXAfDbzQ";
   
 document.getElementById("img22").src= "imgv/22.png";
-document.getElementById('txt22').innerHTML = "✅💥Tutorial Electrónica Básica #2 transistores y reguladores‼️💥😁💯<br />"+ 
+document.getElementById('txt22').innerHTML = "✅💥Tutorial Electrónica Básica #2 transistores y reguladores Di Gracias y aqui les dejo video‼️💥😁💯<br />"+ 
 											"⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️<br />"+
 											"https://youtu.be/lN0AfX0XI8s";
   
 document.getElementById("img23").src= "imgv/23.png";
-document.getElementById('txt23').innerHTML ="✅Tutorial Electrónica Básica #3 Circuitos Integrados, Triac y SCR‼️💥😁💯 <br/>"+ 
+document.getElementById('txt23').innerHTML ="✅Tutorial Electrónica Básica #3 Circuitos Integrados, Triac y SCR Di Gracias y aqui les dejo video‼️💥😁💯 <br/>"+ 
 											"👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇<br />"+ 
 											"https://youtu.be/CorHHjOc2RQ";
 											
 document.getElementById("img24").src= "imgv/24.png";
-document.getElementById('txt24').innerHTML = "👉✅Tutorial Fuentes Conmutadas Switching Power Suply‼️🔥💯<br />"+
+document.getElementById('txt24').innerHTML = "👉✅Tutorial Fuentes Conmutadas Switching Power Suply Di Gracias y aqui les dejo video‼️🔥💯<br />"+
 											"👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇<br />"+
 											"https://youtu.be/Tqhh2-jZkWg";	
 
