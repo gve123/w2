@@ -359,7 +359,7 @@ document.getElementById('txt48').innerHTML =	"💥✅Que pasa si conecto positiv
 
 document.getElementById("img49").src= "imgv/49.png";
 document.getElementById('txt49').innerHTML =	"💥Como Hacer un Inversor de Voltaje con un transformador‼️✅😮 <br />"+
-												"Di Gracias y aqui les dejo la solución‼️👇 <br />"+
+												"Di OK y mira el video completo si deseas opinar‼️👇 <br />"+
 												"https://youtu.be/D8nhm7_y6PY";									
 											
 											
