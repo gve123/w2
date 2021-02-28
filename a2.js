@@ -5,7 +5,7 @@
 let div1 = document.getElementById('contenedor1');
 
  
-for (var k = 1 ; k <= 79; k++) {
+for (var k = 1 ; k <= 80; k++) {
 
 	div1.innerHTML += 
     '<div class="numero" id="num'+k+'">'+k+'</div>'+
@@ -50,7 +50,7 @@ var hoy = new Date();
 var dia = hoy.getDate();
 var mes = hoy.getMonth() + 1;  
   
-for (var j = 1; j <= 79; j++) {
+for (var j = 1; j <= 80; j++) {
   
 	var checked = JSON.parse(localStorage.getItem("checkbox"+n+"#"+j));
     if (checked == true)
@@ -540,7 +540,10 @@ document.getElementById('txt79').innerHTML = 	"✅💥Cómo usar el MULTÍMETRO 
 												"Di Gracias y aqui les dejo el video‼️👇<br />"+
 												"https://youtu.be/hY6DBqapljo";
 
-
+document.getElementById("img80").src= "imgv/80.png";
+document.getElementById('txt80').innerHTML = 	"✅💥Como hacer un cautin casero super potente‼️🔌😮💥✅<br />"+
+												"Di Gracias y aqui les dejo esta genial idea‼️👇<br />"+
+												"https://youtu.be/nfSOs3Hus4w";
 
 
 									
