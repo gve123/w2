@@ -154,12 +154,12 @@ document.getElementById('txt8').innerHTML = "✅💥Como reparar cargador de lap
   
 document.getElementById("img9").src= "imgv/9.png";
 document.getElementById('txt9').innerHTML = "✅💥Reparación bombilla LED, no enciende! Aquí te explico‼️💥<br />"+
-											"👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇<br />"+
+											"Di GRACIAS y aqui les dejo el video completo👇<br>"+
 											"https://youtu.be/yHBoeH0h7HI"; 
   
 document.getElementById("img10").src= "imgv/10.png";
 document.getElementById('txt10').innerHTML = "✅💥Reparación lampara ahorradora con método sencillo‼️💥😮<br />"+
-											"⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️<br />"+
+											"Di GRACIAS y aqui les dejo el video completo👇<br>"+
 											"https://youtu.be/dHl61IFQpqc";
   
 document.getElementById("img11").src= "imgv/11.png";
@@ -234,7 +234,7 @@ document.getElementById('txt24').innerHTML = "👉✅Tutorial Fuentes Conmutadas
 
 document.getElementById("img25").src= "imgv/25.png";
 document.getElementById('txt25').innerHTML =	"👉✅Como reparar reproductor de DVD cuando no enciende‼️💥😁💯 <br />"+
-											"👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇<br />"+
+											"Di GRACIAS y aqui les dejo el video completo👇<br>"+
 											"https://youtu.be/dFWP0JreIqg";	
 											
 document.getElementById("img26").src= "imgv/26.png";
@@ -310,7 +310,7 @@ document.getElementById('txt39').innerHTML = 	"💥✅Como secar la ropa en Invi
 
 document.getElementById("img40").src= "imgv/40.png";
 document.getElementById('txt40').innerHTML =	"💥✅Como cargar la Batería del auto usando un Cargador de laptop‼️💥😊<br />"+
-												"👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇<br />"+
+												"Di GRACIAS y aqui les dejo el video completo👇<br>"+
 												"https://youtu.be/g3veBrXyjGY";											
 
 document.getElementById("img41").src= "imgv/41.png";
