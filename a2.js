@@ -5,7 +5,7 @@
 let div1 = document.getElementById('contenedor1');
 
  
-for (var k = 1 ; k <= 81; k++) {
+for (var k = 1 ; k <= 82; k++) {
 
 	div1.innerHTML += 
     '<div class="numero" id="num'+k+'">'+k+'</div>'+
@@ -50,7 +50,7 @@ var hoy = new Date();
 var dia = hoy.getDate();
 var mes = hoy.getMonth() + 1;  
   
-for (var j = 1; j <= 81; j++) {
+for (var j = 1; j <= 82; j++) {
   
 	var checked = JSON.parse(localStorage.getItem("checkbox"+n+"#"+j));
     if (checked == true)
@@ -549,6 +549,11 @@ document.getElementById("img81").src= "imgv/81.png";
 document.getElementById('txt81').innerHTML = 	"✅💥Como cargar una bateria con simple truco! Genial Invento!‼️🔌😮💥✅<br />"+
 												"Di GRACIAS y aqui les dejo esta genial idea👇<br />"+
 												"https://youtu.be/ExWs49YVd6g";	
+
+document.getElementById("img82").src= "imgv/82.png";
+document.getElementById('txt82').innerHTML = 	"✅💥7 TRUCOS para ahorrar 50% en tu factura eléctrica!!‼️🔌😮💥✅<br />"+
+												"Di GRACIAS para saber que estas activo👇<br />"+
+												"https://youtu.be/dKbOT3cLsRo";	
 
 
 									
