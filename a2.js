@@ -545,6 +545,11 @@ document.getElementById('txt80').innerHTML = 	"✅💥Como hacer un cautin caser
 												"Di Gracias y aqui les dejo esta genial idea‼️👇<br />"+
 												"https://youtu.be/nfSOs3Hus4w";
 
+document.getElementById("img81").src= "imgv/81.png";
+document.getElementById('txt81').innerHTML = 	"✅💥Como cargar una bateria con simple truco! Genial Invento!‼️🔌😮💥✅<br />"+
+												"Di GRACIAS y aqui les dejo esta genial idea👇<br />"+
+												"https://youtu.be/ExWs49YVd6g";	
+
 
 									
 function copy(i) {	
